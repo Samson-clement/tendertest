@@ -35,4 +35,6 @@ Step-by-step instructions on how to install and set up the project locally.
 - List any dependencies or tools required to run the project.
 - Example:
   ```bash
-  npm install
+  npm install 
+  ```
+  
