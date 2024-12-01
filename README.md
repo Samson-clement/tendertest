@@ -2,9 +2,9 @@
 
 ## This is a new update
 
-'''py
+```py
 print("hello")
-'''
+```
 
 # Project Name
 
